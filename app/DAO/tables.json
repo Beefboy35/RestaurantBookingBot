@@ -1,0 +1,12 @@
+[
+    {"id": 1, "capacity": 2, "description": "Сozy table for a couple by the window"},
+    {"id": 2, "capacity": 4, "description": "Family table in the center"},
+    {"id": 3, "capacity": 6, "description": "Large table for a company"},
+    {"id": 4, "capacity": 2, "description": "Romantic table in the corner"},
+    {"id": 5, "capacity": 3, "description": "Table for a small company"},
+    {"id": 6, "capacity": 1, "description": "Place by the tending bar"},
+    {"id": 7, "capacity": 4, "description": "Table with a view of the city"},
+    {"id": 8, "capacity": 5, "description": "Spacious table for family dinner"},
+    {"id": 9, "capacity": 2, "description": "Quiet table for a business meeting"},
+    {"id": 10, "capacity": 6, "description": "VIP-area for a big company"}
+]

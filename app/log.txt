@@ -1,0 +1,383 @@
+2025-02-18 at 21:31:16 | INFO | Bot is  starting...
+2025-02-18 at 21:34:45 | INFO | Bot is  starting...
+2025-02-18 at 21:36:18 | INFO | Bot is  starting...
+2025-02-18 at 21:36:18 | INFO | Adding multiple entries TimeSlot. Quantity: 10
+2025-02-18 at 21:37:03 | INFO | Bot is  starting...
+2025-02-18 at 21:37:59 | INFO | Bot is  starting...
+2025-02-18 at 21:37:59 | INFO | Adding multiple entries Table. Quantity: 10
+2025-02-18 at 21:37:59 | INFO | 10 entries successfully added
+2025-02-18 at 21:37:59 | INFO | Adding multiple entries TimeSlot. Quantity: 8
+2025-02-18 at 21:37:59 | INFO | 8 entries successfully added
+2025-02-18 at 21:38:03 | INFO | Бот успешно запущен.
+2025-02-18 at 21:38:49 | INFO | Bot is  starting...
+2025-02-18 at 21:38:49 | INFO | Adding multiple entries Table. Quantity: 10
+2025-02-18 at 21:38:49 | INFO | 10 entries successfully added
+2025-02-18 at 21:38:49 | INFO | Adding multiple entries TimeSlot. Quantity: 8
+2025-02-18 at 21:38:49 | INFO | 8 entries successfully added
+2025-02-18 at 21:38:50 | INFO | Бот успешно запущен.
+2025-02-18 at 21:40:53 | INFO | Bot is  starting...
+2025-02-18 at 21:40:53 | INFO | Adding multiple entries Table. Quantity: 10
+2025-02-18 at 21:40:53 | INFO | 10 entries successfully added
+2025-02-18 at 21:40:53 | INFO | Adding multiple entries TimeSlot. Quantity: 8
+2025-02-18 at 21:40:53 | INFO | 8 entries successfully added
+2025-02-18 at 21:40:54 | INFO | Бот успешно запущен.
+2025-02-18 at 21:42:17 | INFO | Bot is  starting...
+2025-02-18 at 21:42:17 | INFO | Adding multiple entries Table. Quantity: 10
+2025-02-18 at 21:42:17 | INFO | 10 entries successfully added
+2025-02-18 at 21:42:17 | INFO | Adding multiple entries TimeSlot. Quantity: 8
+2025-02-18 at 21:42:17 | INFO | 8 entries successfully added
+2025-02-18 at 21:42:18 | INFO | Бот успешно запущен.
+2025-02-18 at 21:42:48 | INFO | Bot is  starting...
+2025-02-18 at 21:42:48 | INFO | Adding multiple entries Table. Quantity: 10
+2025-02-18 at 21:42:48 | INFO | 10 entries successfully added
+2025-02-18 at 21:42:48 | INFO | Adding multiple entries TimeSlot. Quantity: 8
+2025-02-18 at 21:42:48 | INFO | 8 entries successfully added
+2025-02-18 at 21:42:49 | INFO | Бот успешно запущен.
+2025-02-19 at 16:21:28 | INFO | Bot is  starting...
+2025-02-19 at 16:21:28 | INFO | Adding multiple entries Table. Quantity: 10
+2025-02-19 at 16:21:28 | INFO | 10 entries successfully added
+2025-02-19 at 16:21:28 | INFO | Adding multiple entries TimeSlot. Quantity: 8
+2025-02-19 at 16:21:28 | INFO | 8 entries successfully added
+2025-02-19 at 16:21:29 | INFO | Бот успешно запущен.
+2025-02-19 at 16:22:44 | INFO | Bot is  starting...
+2025-02-19 at 16:22:45 | INFO | Бот успешно запущен.
+2025-02-19 at 16:25:05 | INFO | Bot is  starting...
+2025-02-19 at 16:25:06 | INFO | Бот успешно запущен.
+2025-02-19 at 16:25:53 | INFO | Bot is  starting...
+2025-02-19 at 16:25:54 | INFO | Бот успешно запущен.
+2025-02-19 at 16:32:47 | INFO | Bot is  starting...
+2025-02-19 at 16:32:48 | INFO | Бот успешно запущен.
+2025-02-19 at 16:35:50 | INFO | Bot is  starting...
+2025-02-19 at 16:35:50 | INFO | Бот успешно запущен.
+2025-02-19 at 16:36:13 | INFO | Bot is  starting...
+2025-02-19 at 16:36:14 | INFO | Бот успешно запущен.
+2025-02-19 at 16:56:22 | INFO | Bot is  starting...
+2025-02-19 at 16:57:02 | INFO | Bot is  starting...
+2025-02-19 at 16:57:03 | INFO | Бот успешно запущен.
+2025-02-19 at 17:00:55 | INFO | Bot is  starting...
+2025-02-19 at 17:00:57 | INFO | Бот успешно запущен.
+2025-02-19 at 17:02:59 | INFO | Bot is  starting...
+2025-02-19 at 17:03:00 | INFO | Бот успешно запущен.
+2025-02-19 at 17:03:00 | SUCCESS | Webhook is set: https://4668-185-193-51-54.ngrok-free.app/webhook
+2025-02-19 at 17:06:43 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:06:43 | INFO | Record User with ID 1274952979 not found.
+2025-02-19 at 17:06:43 | INFO | Adding multiple entries User. Quantity: 4
+2025-02-19 at 17:06:43 | INFO | Entry User successfully added
+2025-02-19 at 17:06:44 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:06:47 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:06:47 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:06:49 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:06:49 | INFO | Searching for all entries Table by filters: {'capacity': 3}
+2025-02-19 at 17:06:49 | INFO | 1 entries found
+2025-02-19 at 17:06:49 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:06:54 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:06:54 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:06:59 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:06:59 | INFO | Record Table with ID 55 successfully found.
+2025-02-19 at 17:06:59 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:07:03 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:07:03 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:07:04 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:07:04 | INFO | Record TimeSlot with ID 44 successfully found.
+2025-02-19 at 17:07:05 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:07:06 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:07:06 | INFO | Adding multiple entries Booking. Quantity: 5
+2025-02-19 at 17:07:06 | INFO | Entry Booking successfully added
+2025-02-19 at 17:07:07 | INFO | Запланировано уведомление для пользователя 1274952979 на 2025-02-19 18:07:07.024156
+2025-02-19 at 17:07:07 | INFO | Запланировано уведомление для пользователя 1274952979 на 2025-02-19 20:07:07.024156
+2025-02-19 at 17:07:07 | INFO | Запланировано уведомление для пользователя 1274952979 на 2025-02-20 05:07:07.024156
+2025-02-19 at 17:07:07 | INFO | Запланировано уведомление для пользователя 1274952979 на 2025-02-20 17:07:07.024156
+2025-02-19 at 17:07:07 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:07:21 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:07:21 | INFO | Searching for all entries Booking by filters: {'user_id': 1274952979}
+2025-02-19 at 17:07:21 | INFO | 1 entries found
+2025-02-19 at 17:07:22 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:09:40 | INFO | Bot is stopping...
+2025-02-19 at 17:09:41 | ERROR | Бот остановлен!
+2025-02-19 at 17:09:53 | INFO | Bot is  starting...
+2025-02-19 at 17:09:53 | INFO | Бот успешно запущен.
+2025-02-19 at 17:09:53 | SUCCESS | Webhook is set: https://4668-185-193-51-54.ngrok-free.app/webhook
+2025-02-19 at 17:10:02 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:10:02 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:10:16 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:10:17 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:10:47 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:10:48 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:10:49 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:10:49 | INFO | Searching for all entries Table by filters: {'capacity': 2}
+2025-02-19 at 17:10:50 | INFO | 3 entries found
+2025-02-19 at 17:10:50 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:10:51 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:10:51 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:10:53 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:10:53 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:10:58 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:10:58 | INFO | Record Table with ID 59 successfully found.
+2025-02-19 at 17:10:58 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:10:59 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:11:00 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:11:03 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:11:03 | INFO | Record TimeSlot with ID 45 successfully found.
+2025-02-19 at 17:11:04 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:11:09 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:11:09 | INFO | Adding multiple entries Booking. Quantity: 5
+2025-02-19 at 17:11:09 | INFO | Entry Booking successfully added
+2025-02-19 at 17:11:10 | INFO | Запланировано уведомление для пользователя 1274952979 на 2025-02-19 18:11:10.117878
+2025-02-19 at 17:11:10 | INFO | Запланировано уведомление для пользователя 1274952979 на 2025-02-19 20:11:10.117878
+2025-02-19 at 17:11:10 | INFO | Запланировано уведомление для пользователя 1274952979 на 2025-02-20 05:11:10.117878
+2025-02-19 at 17:11:10 | INFO | Запланировано уведомление для пользователя 1274952979 на 2025-02-20 17:11:10.117878
+2025-02-19 at 17:11:10 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:11:37 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:11:38 | INFO | Searching for all entries Booking by filters: {'user_id': 1274952979}
+2025-02-19 at 17:11:38 | INFO | 2 entries found
+2025-02-19 at 17:11:38 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:11:40 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:11:40 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:11:43 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:11:43 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:13:24 | INFO | Bot is stopping...
+2025-02-19 at 17:13:24 | ERROR | Бот остановлен!
+2025-02-19 at 17:13:41 | INFO | Bot is  starting...
+2025-02-19 at 17:13:42 | INFO | Бот успешно запущен.
+2025-02-19 at 17:13:42 | SUCCESS | Webhook is set: https://4668-185-193-51-54.ngrok-free.app/webhook
+2025-02-19 at 17:14:30 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:14:30 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:14:34 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:14:34 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:14:36 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:14:36 | INFO | Counting the number of entries User by filter: {}
+2025-02-19 at 17:14:36 | ERROR | Error counting entries: SQL expression element expected, got <class 'app.DAO.models.User'>.
+2025-02-19 at 17:14:36 | ERROR | Ошибка при обработке обновления с вебхука: SQL expression element expected, got <class 'app.DAO.models.User'>.
+2025-02-19 at 17:14:43 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:14:43 | INFO | <sqlalchemy.engine.result.ScalarResult object at 0x000000000D672DF0> entries with status booked found
+2025-02-19 at 17:14:43 | INFO | <sqlalchemy.engine.result.ScalarResult object at 0x000000000D673AC0> entries with status completed found
+2025-02-19 at 17:14:43 | INFO | <sqlalchemy.engine.result.ScalarResult object at 0x000000000D673B60> entries with status canceled found
+2025-02-19 at 17:14:43 | ERROR | Error counting entries by status: SQL expression element expected, got <class 'app.DAO.models.Booking'>.
+2025-02-19 at 17:14:43 | ERROR | Ошибка при обработке обновления с вебхука: SQL expression element expected, got <class 'app.DAO.models.Booking'>.
+2025-02-19 at 17:15:26 | INFO | Bot is stopping...
+2025-02-19 at 17:15:26 | ERROR | Бот остановлен!
+2025-02-19 at 17:15:48 | INFO | Bot is  starting...
+2025-02-19 at 17:15:49 | INFO | Бот успешно запущен.
+2025-02-19 at 17:15:49 | SUCCESS | Webhook is set: https://4668-185-193-51-54.ngrok-free.app/webhook
+2025-02-19 at 17:15:54 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:15:54 | INFO | Record User with ID 1274952979 successfully found.
+2025-02-19 at 17:15:54 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:15:55 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:15:55 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:15:58 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:15:58 | INFO | Counting the number of entries User by filter: {}
+2025-02-19 at 17:15:58 | ERROR | Error counting entries: SQL expression element expected, got <class 'app.DAO.models.User'>.
+2025-02-19 at 17:15:58 | ERROR | Ошибка при обработке обновления с вебхука: SQL expression element expected, got <class 'app.DAO.models.User'>.
+2025-02-19 at 17:16:01 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:16:01 | INFO | 1 entries with status booked found
+2025-02-19 at 17:16:01 | INFO | 0 entries with status completed found
+2025-02-19 at 17:16:01 | INFO | 1 entries with status canceled found
+2025-02-19 at 17:16:01 | ERROR | Error counting entries by status: SQL expression element expected, got <class 'app.DAO.models.Booking'>.
+2025-02-19 at 17:16:01 | ERROR | Ошибка при обработке обновления с вебхука: SQL expression element expected, got <class 'app.DAO.models.Booking'>.
+2025-02-19 at 17:19:09 | INFO | Bot is stopping...
+2025-02-19 at 17:19:10 | ERROR | Бот остановлен!
+2025-02-19 at 17:19:25 | INFO | Bot is  starting...
+2025-02-19 at 17:19:25 | INFO | Бот успешно запущен.
+2025-02-19 at 17:19:26 | SUCCESS | Webhook is set: https://4668-185-193-51-54.ngrok-free.app/webhook
+2025-02-19 at 17:19:32 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:19:32 | INFO | Counting the number of entries User by filter: {}
+2025-02-19 at 17:19:32 | ERROR | Ошибка при обработке обновления с вебхука: 'count' object is not callable
+2025-02-19 at 17:19:38 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:19:38 | INFO | 1 entries with status booked found
+2025-02-19 at 17:19:38 | INFO | 0 entries with status completed found
+2025-02-19 at 17:19:38 | INFO | 1 entries with status canceled found
+2025-02-19 at 17:19:38 | ERROR | Error counting entries by status: SQL expression element expected, got <class 'app.DAO.models.Booking'>.
+2025-02-19 at 17:19:38 | ERROR | Ошибка при обработке обновления с вебхука: SQL expression element expected, got <class 'app.DAO.models.Booking'>.
+2025-02-19 at 17:20:49 | INFO | Bot is stopping...
+2025-02-19 at 17:20:50 | ERROR | Бот остановлен!
+2025-02-19 at 17:21:06 | INFO | Bot is  starting...
+2025-02-19 at 17:21:07 | INFO | Бот успешно запущен.
+2025-02-19 at 17:21:07 | SUCCESS | Webhook is set: https://4668-185-193-51-54.ngrok-free.app/webhook
+2025-02-19 at 17:21:11 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:21:11 | INFO | 1 entries with status booked found
+2025-02-19 at 17:21:11 | INFO | 0 entries with status completed found
+2025-02-19 at 17:21:11 | INFO | 1 entries with status canceled found
+2025-02-19 at 17:21:11 | ERROR | Error counting entries by status: SQL expression element expected, got <class 'app.DAO.models.Booking'>.
+2025-02-19 at 17:21:11 | ERROR | Ошибка при обработке обновления с вебхука: SQL expression element expected, got <class 'app.DAO.models.Booking'>.
+2025-02-19 at 17:21:14 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:21:14 | INFO | Counting the number of entries User by filter: {}
+2025-02-19 at 17:21:14 | ERROR | Ошибка при обработке обновления с вебхука: 'count' object is not callable
+2025-02-19 at 17:21:47 | INFO | Bot is stopping...
+2025-02-19 at 17:21:48 | ERROR | Бот остановлен!
+2025-02-19 at 17:21:58 | INFO | Bot is  starting...
+2025-02-19 at 17:21:59 | INFO | Бот успешно запущен.
+2025-02-19 at 17:21:59 | SUCCESS | Webhook is set: https://4668-185-193-51-54.ngrok-free.app/webhook
+2025-02-19 at 17:22:02 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:22:02 | INFO | Counting the number of entries User by filter: {}
+2025-02-19 at 17:22:02 | INFO | 1 entries found
+2025-02-19 at 17:22:02 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:22:10 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:22:10 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:22:11 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:22:11 | INFO | 1 entries with status booked found
+2025-02-19 at 17:22:11 | INFO | 0 entries with status completed found
+2025-02-19 at 17:22:11 | INFO | 1 entries with status canceled found
+2025-02-19 at 17:22:11 | ERROR | Error counting entries by status: SQL expression element expected, got <class 'app.DAO.models.Booking'>.
+2025-02-19 at 17:22:11 | ERROR | Ошибка при обработке обновления с вебхука: SQL expression element expected, got <class 'app.DAO.models.Booking'>.
+2025-02-19 at 17:24:12 | INFO | Bot is stopping...
+2025-02-19 at 17:24:13 | ERROR | Бот остановлен!
+2025-02-19 at 17:24:22 | INFO | Bot is  starting...
+2025-02-19 at 17:24:23 | INFO | Бот успешно запущен.
+2025-02-19 at 17:24:23 | SUCCESS | Webhook is set: https://4668-185-193-51-54.ngrok-free.app/webhook
+2025-02-19 at 17:24:25 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:24:25 | ERROR | Error counting entries by status: FROM expression, such as a Table or alias() object expected, got Column('id', Integer(), table=<bookings>, primary_key=True, nullable=False) object resolved from <sqlalchemy.orm.attributes.InstrumentedAttribute object at 0x000000000F698360> object.
+2025-02-19 at 17:24:25 | ERROR | Ошибка при обработке обновления с вебхука: FROM expression, such as a Table or alias() object expected, got Column('id', Integer(), table=<bookings>, primary_key=True, nullable=False) object resolved from <sqlalchemy.orm.attributes.InstrumentedAttribute object at 0x000000000F698360> object.
+2025-02-19 at 17:24:43 | INFO | Bot is stopping...
+2025-02-19 at 17:24:44 | ERROR | Бот остановлен!
+2025-02-19 at 17:24:56 | INFO | Bot is  starting...
+2025-02-19 at 17:24:56 | INFO | Бот успешно запущен.
+2025-02-19 at 17:24:57 | SUCCESS | Webhook is set: https://4668-185-193-51-54.ngrok-free.app/webhook
+2025-02-19 at 17:24:58 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:24:59 | INFO | 1 entries with status booked found
+2025-02-19 at 17:24:59 | INFO | 0 entries with status completed found
+2025-02-19 at 17:24:59 | INFO | 1 entries with status canceled found
+2025-02-19 at 17:24:59 | ERROR | Error counting entries by status: SQL expression element expected, got <class 'app.DAO.models.Booking'>.
+2025-02-19 at 17:24:59 | ERROR | Ошибка при обработке обновления с вебхука: SQL expression element expected, got <class 'app.DAO.models.Booking'>.
+2025-02-19 at 17:27:17 | INFO | Bot is stopping...
+2025-02-19 at 17:27:18 | ERROR | Бот остановлен!
+2025-02-19 at 17:27:21 | INFO | Bot is  starting...
+2025-02-19 at 17:27:22 | INFO | Бот успешно запущен.
+2025-02-19 at 17:27:22 | SUCCESS | Webhook is set: https://4668-185-193-51-54.ngrok-free.app/webhook
+2025-02-19 at 17:27:35 | INFO | Bot is  starting...
+2025-02-19 at 17:27:36 | INFO | Бот успешно запущен.
+2025-02-19 at 17:27:36 | SUCCESS | Webhook is set: https://4668-185-193-51-54.ngrok-free.app/webhook
+2025-02-19 at 17:27:37 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:27:37 | INFO | 1 entries with status booked found
+2025-02-19 at 17:27:37 | INFO | 0 entries with status completed found
+2025-02-19 at 17:27:37 | INFO | 1 entries with status canceled found
+2025-02-19 at 17:27:37 | INFO | 2 entries found in total
+2025-02-19 at 17:27:37 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:27:43 | INFO | Получен запрос с вебхука.
+2025-02-19 at 17:27:44 | INFO | Обновление успешно обработано.
+2025-02-19 at 17:37:19 | INFO | Bot is stopping...
+2025-02-19 at 17:37:19 | ERROR | Бот остановлен!
+2025-02-19 at 17:38:06 | INFO | Bot is  starting...
+2025-02-19 at 17:38:07 | INFO | Бот успешно запущен.
+2025-02-19 at 20:20:25 | INFO | Bot is  starting...
+2025-02-19 at 20:20:25 | INFO | Бот успешно запущен.
+2025-02-19 at 21:27:59 | INFO | Bot is  starting...
+2025-02-19 at 21:28:00 | INFO | Бот успешно запущен.
+2025-02-19 at 21:28:00 | SUCCESS | Webhook is set: https://4668-185-193-51-54.ngrok-free.app/webhook
+2025-02-19 at 21:30:44 | INFO | Bot is stopping...
+2025-02-19 at 21:30:44 | ERROR | Бот остановлен!
+2025-02-19 at 21:30:55 | INFO | Bot is  starting...
+2025-02-19 at 21:30:55 | INFO | Бот успешно запущен.
+2025-02-19 at 21:30:56 | SUCCESS | Webhook is set: https://b2dc-185-193-51-54.ngrok-free.app/webhook
+2025-02-19 at 21:31:04 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:31:04 | INFO | Record User with ID 1274952979 successfully found.
+2025-02-19 at 21:31:04 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:31:13 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:31:14 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:31:15 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:31:15 | INFO | Searching for all entries Table by filters: {'capacity': 3}
+2025-02-19 at 21:31:15 | INFO | 1 entries found
+2025-02-19 at 21:31:16 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:31:19 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:31:19 | INFO | Record Table with ID 55 successfully found.
+2025-02-19 at 21:31:19 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:31:21 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:31:21 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:31:22 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:31:22 | INFO | Record TimeSlot with ID 45 successfully found.
+2025-02-19 at 21:31:23 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:31:26 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:31:26 | INFO | Adding multiple entries Booking. Quantity: 5
+2025-02-19 at 21:31:26 | INFO | Entry Booking successfully added
+2025-02-19 at 21:31:27 | INFO | Запланировано уведомление для пользователя 1274952979 на 2025-02-19 22:31:27.084539
+2025-02-19 at 21:31:27 | INFO | Запланировано уведомление для пользователя 1274952979 на 2025-02-20 00:31:27.084539
+2025-02-19 at 21:31:27 | INFO | Запланировано уведомление для пользователя 1274952979 на 2025-02-20 09:31:27.084539
+2025-02-19 at 21:31:27 | INFO | Запланировано уведомление для пользователя 1274952979 на 2025-02-20 21:31:27.084539
+2025-02-19 at 21:31:27 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:31:33 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:31:34 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:31:37 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:31:37 | INFO | 2 entries with status booked found
+2025-02-19 at 21:31:37 | INFO | 0 entries with status completed found
+2025-02-19 at 21:31:37 | INFO | 1 entries with status canceled found
+2025-02-19 at 21:31:37 | INFO | 3 entries found in total
+2025-02-19 at 21:31:37 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:31:41 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:31:42 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:31:43 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:31:43 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:31:45 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:31:45 | INFO | Searching for all entries Table by filters: {'capacity': 5}
+2025-02-19 at 21:31:45 | INFO | 1 entries found
+2025-02-19 at 21:31:45 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:31:49 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:31:50 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:31:52 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:31:52 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:32:47 | INFO | Bot is stopping...
+2025-02-19 at 21:32:48 | ERROR | Бот остановлен!
+2025-02-19 at 21:34:29 | INFO | Bot is  starting...
+2025-02-19 at 21:34:30 | INFO | Бот успешно запущен.
+2025-02-19 at 21:34:30 | SUCCESS | Webhook is set: https://b2dc-185-193-51-54.ngrok-free.app/webhook
+2025-02-19 at 21:34:36 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:34:36 | ERROR | Ошибка при обработке обновления с вебхука: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-02-19 at 21:35:58 | INFO | Bot is stopping...
+2025-02-19 at 21:35:58 | ERROR | Бот остановлен!
+2025-02-19 at 21:36:09 | INFO | Bot is  starting...
+2025-02-19 at 21:36:09 | INFO | Бот успешно запущен.
+2025-02-19 at 21:36:09 | SUCCESS | Webhook is set: https://b2dc-185-193-51-54.ngrok-free.app/webhook
+2025-02-19 at 21:36:11 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:36:12 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:36:19 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:36:19 | INFO | Record User with ID 1274952979 successfully found.
+2025-02-19 at 21:36:19 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:36:20 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:36:20 | INFO | Searching for all entries Booking by filters: {'user_id': 1274952979}
+2025-02-19 at 21:36:20 | INFO | 3 entries found
+2025-02-19 at 21:36:21 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:36:22 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:36:22 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:36:24 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:36:24 | INFO | Searching for all entries Table by filters: {'capacity': 4}
+2025-02-19 at 21:36:24 | INFO | 2 entries found
+2025-02-19 at 21:36:24 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:36:25 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:36:25 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:36:27 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:36:27 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:36:28 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:36:28 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:36:29 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:36:29 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:36:30 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:36:30 | INFO | Record Table with ID 52 successfully found.
+2025-02-19 at 21:36:30 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:36:32 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:36:32 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:36:33 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:36:34 | INFO | Record TimeSlot with ID 45 successfully found.
+2025-02-19 at 21:36:34 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:36:35 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:36:35 | INFO | Adding multiple entries Booking. Quantity: 5
+2025-02-19 at 21:36:35 | INFO | Entry Booking successfully added
+2025-02-19 at 21:36:36 | INFO | Запланировано уведомление для пользователя 1274952979 на 2025-02-19 22:36:36.050354
+2025-02-19 at 21:36:36 | INFO | Запланировано уведомление для пользователя 1274952979 на 2025-02-20 00:36:36.050354
+2025-02-19 at 21:36:36 | INFO | Запланировано уведомление для пользователя 1274952979 на 2025-02-20 09:36:36.050354
+2025-02-19 at 21:36:36 | INFO | Запланировано уведомление для пользователя 1274952979 на 2025-02-20 21:36:36.050354
+2025-02-19 at 21:36:36 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:36:38 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:36:38 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:36:40 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:36:40 | INFO | Counting the number of entries User by filter: {}
+2025-02-19 at 21:36:40 | INFO | 1 entries found
+2025-02-19 at 21:36:40 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:36:45 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:36:45 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:36:46 | INFO | Получен запрос с вебхука.
+2025-02-19 at 21:36:46 | INFO | Обновление успешно обработано.
+2025-02-19 at 21:41:02 | INFO | Bot is stopping...
+2025-02-19 at 21:41:02 | ERROR | Бот остановлен!
+2025-02-19 at 21:41:07 | INFO | Bot is  starting...
+2025-02-19 at 21:41:08 | INFO | Бот успешно запущен.
+2025-02-19 at 21:41:08 | SUCCESS | Webhook is set: https://b2dc-185-193-51-54.ngrok-free.app/webhook
+2025-02-19 at 21:44:01 | INFO | Bot is stopping...
+2025-02-19 at 21:44:02 | ERROR | Бот остановлен!
